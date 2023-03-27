@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![masterhead](http://image.pbs.org/video-assets/pbs/off-book/66242/images/mezzanine_387.jpg)]
+![masterhead](http://image.pbs.org/video-assets/pbs/off-book/66242/images/mezzanine_387.jpg)]
 <h1 align="center">Hi 👋, I'm Niraj Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.LEH5tUEQReWe8Iu-UEV3PgHaFj%26pid%3DApi&f=1&ipt=48196cf4feef1b2c94585712d3139c3ceeb2f028a6878457de931efea1d51cc5&ipo=images">
